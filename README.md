@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saiteja
-- 👀 I’m interested in BLOGGING,NX10,SOLIDEDGE
-- 🌱 I’m currently learning DATA SCIENCE 
+- 👀 I’m interested in BLOGGING,
+- 🌱 I’m currently Pursuing MS in DATA SCIENCE
 - 📫 How to reach me linkedin.com/in/sai-teja-b50175186
 - ✨ Travel Blogger - saitejab2001.blogspot.com/
 

@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @saiteja
-- 👀 I’m interested in BLOGGING,
-- 🌱 I’m currently Pursuing MS in DATA SCIENCE
-- 📫 How to reach me linkedin.com/in/sai-teja-b50175186
+# 👋 Hi, I'm Sai Teja!  
 
+🚀 **Aspiring Data Scientist | Machine Learning Enthusiast | Technical Innovator | NLP Engineer**  
 
-<!---
-saitejab2001/saitejab2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### **About Me**  
+- 🔥 Transitioned from **Mechanical Engineering** to **Data Science & Machine Learning**  
+- 🎯 Passionate about **self-adaptive NLP models**, **real-time anomaly detection**, and **causal learning**  
+- 🏗️ Currently preparing for **Data Science & AI Interns**
+- 📊 Skilled in **Python, SQL, Machine Learning, Deep Learning, Computer vision, Gen AI, NLP, Crew AI, Gemini  AI and Data Engineering**  
+- 🎓 Love working with datasets and building **intelligent decision-making systems**  
+
+### **Tech Stack**  
+💻 **Languages:** Python, SQL, R  
+📊 **Data Science:** Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, NLTK
+⚙️ **Tools:** Jupyter Notebook, Git, Docker, Airflow  
+📡 **Databases:** PostgreSQL, MySQL, BigQuery  
+📈 **Cloud & Big Data:** AWS, Google Cloud, Spark  
+
+### **Current Research & Interests**    
+🔹 **Causal NLP for Anomaly Detection in CPS Logs**  
+🔹 **Scalable Data Engineering for ML Workflows**  
+ 
+
+---
+
+✨ *Always learning, always innovating! Let’s build something amazing together!* 🚀
